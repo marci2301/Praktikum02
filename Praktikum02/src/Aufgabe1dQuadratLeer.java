@@ -1,8 +1,8 @@
-public class Quadrat2neu {
+public class Aufgabe1dQuadratLeer {
 	
 	public static void main(String[] args) {
 		
-		StdOut.println("Zahl?");
+		StdOut.println("Anzahl der Zeilen eingeben: ");
 		int z = StdIn.readInt();
 		
 		for(int i=0; i<z; i++){

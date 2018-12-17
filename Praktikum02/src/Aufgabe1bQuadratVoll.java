@@ -1,5 +1,5 @@
 
-public class SchleifenQuadrat {
+public class Aufgabe1bQuadratVoll {
 
 	public static void main(String[] args) {
 		

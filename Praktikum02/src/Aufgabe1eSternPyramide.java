@@ -1,5 +1,5 @@
 
-public class SternBaum {
+public class Aufgabe1eSternPyramide {
 
 	public static void main(String[] args) {
 		

@@ -1,4 +1,4 @@
-public class Wertebereich {
+public class Aufgabe2c_IntBereich2 {
 	public static void main(String[] args) {
 		
 		StdOut.println("Geben Sie eine Integer Zahl ein: ");

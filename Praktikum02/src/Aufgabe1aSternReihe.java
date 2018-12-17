@@ -1,5 +1,5 @@
 
-public class Aufgabe1a {
+public class Aufgabe1aSternReihe {
 
 	public static void main(String[] args) {
 		

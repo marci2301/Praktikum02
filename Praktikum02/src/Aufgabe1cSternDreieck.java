@@ -1,5 +1,5 @@
 
-public class SternDreieck {
+public class Aufgabe1cSternDreieck {
 
 	public static void main(String[] args) {
 		
